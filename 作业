@@ -1,0 +1,8 @@
+#include<stdio.h>
+int sum(){
+	return (2525);
+}
+void main()
+{
+	printf("%d\n",sum());
+}
